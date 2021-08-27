@@ -5,6 +5,6 @@
 # RA
 * 233895
 
-## Tarefas sobre modelos lógicos
+## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
 * Notebook com a resolução das tarefas sobre modelos lógicos
 > ![Notebook](notebook/lab2-logic-model-dbpedia.ipynb)
