@@ -6,5 +6,5 @@
 * 233895
 
 ## Tarefas sobre modelos lógicos
-* Notebook com a resolução das tarefas sobre modelos lógicos´
+* Notebook com a resolução das tarefas sobre modelos lógicos
 > ![Notebook](notebook/lab2-logic-model-dbpedia.ipynb)
