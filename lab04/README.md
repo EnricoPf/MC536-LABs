@@ -1,5 +1,5 @@
 # Aluno
-* `233895`: `<Enrico Piovesana Fernandes>`
+* `233895`: `Enrico Piovesana Fernandes`
 
 ## Tarefa sobre Consultas SQL no NHANES
 
