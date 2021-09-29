@@ -1,13 +1,5 @@
 # Modelo para Apresentação do Lab06 - Artigo de Dataset Público
 
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa (se houver)
-~~~
-
 # Aluno
 * `233895`: `Enrico Piovesana Fernandes`
 
@@ -22,7 +14,6 @@ Estrutura de pastas:
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
 > O artigo propõe a construção de um banco de dados tratando de informações sobre músicas especializado para data mining. Mais especificamente, o artigo cónstroi três bancos de dados diferentes contendo informações sobre músicas: 
 - O primeiro banco de dados **Popularity** possui dados sobre a popularidade de determinadas músicas, contendo informações sobre rankings de músicas, albums e artistas de acordo com as Billboard charts, sendo os dados de album e músicas coletados das charts de Hot 100 e Billboard 200, a do artista foi montada a partir das outras duas colunas.
 - O segundo banco de dados **Metadata**, a informação numérica e textual relacionada as músicas, artistas e álbums, sendo esses dados coletados do Spotify e categorizou os tipos de artistas de acordo com a API do Wikipedia
@@ -38,7 +29,6 @@ Estrutura de pastas:
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
 - The RWC Music Database [Goto et al. 2003]
 - Computer Audition Lab 500-song (CAL500) [Turnbull et al. 2008]
 - The Million Song Dataset (MSD) [Bertin-Mahieux et al. 2011]
